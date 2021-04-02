@@ -67,7 +67,6 @@ typings/
 .serverless
 
 # Build files
-dist/
 server/db
 server/main.js
 
